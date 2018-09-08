@@ -33,8 +33,9 @@ The workshops focus on Python and its usage for scientific applications.
 ### Part 1
 
 * Getting started with Python
+  * Installing Python 
   * Introduction to scientific computing with Python
-  * Python and Python´s scientific stack
+  * Python's scientific stack
   * IDE´s and the Jupyter ecosystem
 
 * Python 101
@@ -45,6 +46,7 @@ The workshops focus on Python and its usage for scientific applications.
   * Indexing and Slicing
   * Collections
   * Loops
+  * List comprehensions
   * Control Flow
   * I/O
   * User-defined functions
@@ -55,7 +57,7 @@ The workshops focus on Python and its usage for scientific applications.
 
 * Data science, statistics and predictive modeling
   * Processing of tabular data
-  * Exploratory Data Analysis 
+  * Exploratory data analysis 
   * Plotting with Python
   * Statistics
     * Univariate statistics
