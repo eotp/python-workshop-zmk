@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eotp/workshop-data-science-CODE/master)
 
 
-Prelimnary dates
+Preliminary dates
 * Part 1: October 18<sup>th</sup> and 19<sup>th</sup>, 2018
 * Part 2: _tba_
 * Part 3: _tba_
