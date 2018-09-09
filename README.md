@@ -55,6 +55,7 @@ The workshops focus on Python and its usage for scientific applications.
 
 ### Part 2
 
+* Essentials of version control for collaborative coding 
 * Data science, statistics and predictive modeling
   * Processing of tabular data
   * Exploratory data analysis 
