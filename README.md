@@ -2,12 +2,22 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/)
 
+The course will take place on 3 different duo-dates of Fridays and Saturdays at Universitätsmedizin Berlin, Department of Restorative and Preventive Dentistry, Assmannshauser Straße 4-6, 14197 Berlin.
 
-Preliminary dates
+In order to particicpate you have to register first (see [here](https://zahnerhaltung.charite.de/forschung/python_workshop_zmk/) for more details). The course will be worth 2.5 ECTS credit points. 
+
+
+Dates
 * Part 1: October 19<sup>th</sup> and 20<sup>th</sup>, 2018
 * Part 2: November 2<sup>nd</sup> and 3<sup>rd</sup>, 2018
-
 * Part 3: _tba_
+
+Requirements
+* Bring you own laptop
+* Have access to _eduroam_
+
+
+*** 
 
 
 This repository contains materials for a series of workshops on __Python and Python for Data Science__ hosted at [Charité - Universitätsmedizin Berlin](https://zahnerhaltung.charite.de/en/), Germany.
