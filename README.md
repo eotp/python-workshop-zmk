@@ -4,7 +4,7 @@
 
 The course will take place on 3 different duo-dates of Fridays and Saturdays at Universitätsmedizin Berlin, Department of Restorative and Preventive Dentistry, Assmannshauser Straße 4-6, 14197 Berlin.
 
-In order to particicpate you have to register first (see [here](https://zahnerhaltung.charite.de/forschung/python_workshop_zmk/) for more details). The course will be worth 2.5 ECTS credit points. 
+In order to participate you have to register first (see [here](https://zahnerhaltung.charite.de/forschung/python_workshop_zmk/) for more details). The course will be worth 2.5 ECTS credit points. 
 
 
 Dates
@@ -84,7 +84,7 @@ The workshops focus on Python and its usage for scientific applications.
   
 ### Part 3
 
-* Applied scientific computing and problem solving. 
+* Applied scientific computing and problem solving.   
 _The specific content for part 3 is yet to be determined. We aim to help the participants to tackle their particular research questions using Python._
 
 ***
