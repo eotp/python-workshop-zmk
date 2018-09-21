@@ -4,8 +4,9 @@
 
 
 Preliminary dates
-* Part 1: October 18<sup>th</sup> and 19<sup>th</sup>, 2018
-* Part 2: _tba_
+* Part 1: October 19<sup>th</sup> and 20<sup>th</sup>, 2018
+* Part 2: November 2<sup>nd</sup> and 3<sup>rd</sup>, 2018
+
 * Part 3: _tba_
 
 
