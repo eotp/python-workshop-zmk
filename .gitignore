@@ -105,3 +105,6 @@ venv.bak/
 
 # mac files
 *.DS_Store
+
+# exclude draft files
+*XX_*
