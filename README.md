@@ -10,8 +10,8 @@ In order to participate you have to register first (see [here](https://zahnerhal
 Dates
 * Part 1: October 19<sup>th</sup> and 20<sup>th</sup>, 2018
 * Part 2: November 2<sup>nd</sup> and 3<sup>rd</sup>, 2018
-* Part 3: _tba_
-
+* Part 3: November 30<sup>th</sup> and December 1<sup>st</sup> 
+ 
 Requirements
 * Bring you own laptop
 * Have access to _eduroam_
@@ -69,8 +69,8 @@ The workshops focus on Python and its usage for scientific applications.
 * Essentials of version control for collaborative coding 
 * Data science, statistics and predictive modeling
   * Processing of tabular data
-  * Exploratory data analysis 
   * Plotting with Python
+  * Exploratory data analysis 
   * Statistics
     * Univariate statistics
     * Multivariate statistics
