@@ -34,6 +34,7 @@ into your console. You activate your new environment by typing
 
 Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). Alternatively, you may launch [binder](https://mybinder.org/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here](https://mybinder.org/v2/gh/eotp/python-workshop-zmk/master).
 
+> _Note that if you want to run this repo in [JuptyerLab](https://github.com/jupyterlab/jupyterlab) instance on binder follow this link: [binder jupyterlab](https://mybinder.org/v2/gh/eotp/python-workshop-zmk/master?urlpath=lab)_
 
 ***
 
