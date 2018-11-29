@@ -1,0 +1,17 @@
+name: python-charite
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - holoviews
+  - matplotlib
+  - notebook
+  - jupyterlab
+  - numpy
+  - pandas
+  - python=3.6
+  - scikit-learn
+  - scipy
+  - seaborn
+  - spyder
+  - statsmodels
